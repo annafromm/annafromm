@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @annafromm
 - 👀 I’m interested in QA, Motion
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate
+- 🌱 I’m currently learning Playwright
 - 📫 How to reach me Telegram @annafromm  📫 anna.fromm6@gmail.com
 
 <!---
