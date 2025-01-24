@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annafromm
-- 👀 I’m interested in QA, Motion
+- 👀 QA engineer
 - 🌱 I’m currently learning Playwright
 - 📫 How to reach me Telegram @annafromm  📫 anna.fromm6@gmail.com
 
